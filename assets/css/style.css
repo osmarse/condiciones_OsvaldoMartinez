@@ -1,0 +1,97 @@
+body {
+    margin: 0px;
+    border: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.foto {
+    text-align: center;
+}
+
+h2 {
+    padding: 0px;
+    border: 5px;
+    margin: 5px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 0px;
+    border: 5px;
+    margin: 5px;
+}
+
+.container1 {
+    background-color: #ffc6ff;
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+
+.container2 {
+    background-color: #caffbf;
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+
+.container3 {
+    background-color: #a0c4ff;
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+
+.sticker {
+    border-radius: 5%;
+    box-shadow: 5px 5px 5px rgb(221, 221, 221);
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+}
+
+.column {
+    display: grid;
+    padding: 10px;
+}
+
+.aviso {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
+
+.boton {
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
+
+.selectores {
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
+
+.clave {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 4px;
+}
+
+.boton2 {
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
